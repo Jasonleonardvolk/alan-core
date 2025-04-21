@@ -29,7 +29,9 @@ This repository has the following files committed:
 1. Root PDF papers (papers in the main BANKSY directory)
 2. CTC documentation and papers (Communication Through Coherence)
 3. DNC documentation and papers (Differentiable Neural Computer research)
-4. Directory structure for all research areas
+4. Feedback Loops with Memory research
+5. Hierarchical Synchronization research papers
+6. Oscillator_Driven Expert Routing research (uploading in progress)
 
 ### GitHub Repository
 
